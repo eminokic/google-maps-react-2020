@@ -32,8 +32,8 @@ const options = {
   zoomControl: true,
 };
 const center = {
-  lat: 43.6532,
-  lng: -79.3832,
+  lat: 34.0522,
+  lng: -118.2436, 
 };
 
 export default function App() {
